@@ -1,0 +1,3 @@
+Quick and dirty script to take someone's last.fm 7 day chart and turn it into a Spotify playlist.
+
+Requires (jberkel/spotify-api)[http://github.com/jberkel/spotify-api], which is a webservice wrapper on top of the jotify client.
